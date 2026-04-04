@@ -1,3 +1,23 @@
+const {
+  numPointsScored,
+  shoeSize,
+  teamColors,
+  teamNames,
+  playerNumbers,
+  playerStats,
+  bigShoeRebounds
+} = require('../index');
+
+
+
+
+
+
+
+
+
+
+
 describe('Basketball Stats', function () {
   
   describe('numPointsScored', function () {
@@ -66,3 +86,9 @@ describe('Basketball Stats', function () {
     });
   });
 });
+
+
+
+
+
+

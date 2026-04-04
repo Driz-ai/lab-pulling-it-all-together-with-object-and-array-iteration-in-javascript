@@ -342,6 +342,23 @@ function doesLongNameStealATon() {
 
 
 
+module.exports = {
+  numPointsScored,
+  shoeSize,
+  teamColors,
+  teamNames,
+  playerNumbers,
+  playerStats,
+  bigShoeRebounds,
+  mostPointsScored,
+  winningTeam,
+  playerWithLongestName,
+  doesLongNameStealATon
+};
+
+
+
+
 
 
 
